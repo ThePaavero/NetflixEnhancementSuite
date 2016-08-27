@@ -30,7 +30,6 @@
             }
             var percentage = parseInt(progressBar.style.width.replace('%', ''), 10);
             if (percentage > 85) {
-                flickElement.style.opacity = 0.2;
                 flickElement.remove();
             }
         });
