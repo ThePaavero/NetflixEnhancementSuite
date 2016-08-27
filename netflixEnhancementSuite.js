@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Netflix Enhancement Suit
+// @name         Netflix Enhancement Suite
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Get rid of annoying Netflix features
